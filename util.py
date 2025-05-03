@@ -1,9 +1,14 @@
+import threading
 import serial
 import time
 import sys
+import os
+import socket
 import logger
 from plyer import notification
 
+
+serial_lock = threading.Lock()
 # ----- Configuration -----
 BAUD_RATE = 115200
 READ_TIMEOUT = 1
@@ -56,24 +61,28 @@ def check_wallet_online(port) -> bool:
 
         time.sleep(2)
 
+wallet_busy = threading.Event()
 
-def monitor_wallet_status(port, esp_device):
+def monitor_wallet_status(port, esp_device,socket):
     """Monitor the secure wallet status and handle authentication."""
     consecutive_failures = 0
     max_failures = 5
     while True:
-        if check_wallet_online(port):
-            Wallet_logger.info("SecureWallet is online.")
-            consecutive_failures = 0
-            esp_device.send_command("GET_STATUS")
-        else:
-            consecutive_failures += 1
-            Wallet_logger.warning(f"Failed to connect to SecureWallet. Attempt {consecutive_failures}/{max_failures}")
-            if consecutive_failures >= max_failures:
-                Wallet_logger.error("Max failures reached. Exiting...")
-                logger.error("Wallet offline for too long. Disconnecting user from the server.")
-                esp_device.close()
-                sys.exit(1)
+        if not wallet_busy.is_set():  # Skip status checks if the wallet is busy
+            if check_wallet_online(port):
+                Wallet_logger.info("SecureWallet is online.")
+                consecutive_failures = 0
+                with serial_lock:
+                    esp_device.send_command("GET_STATUS")
+            else:
+                consecutive_failures += 1
+                Wallet_logger.warning(f"Failed to connect to SecureWallet. Attempt {consecutive_failures}/{max_failures}")
+                if consecutive_failures >= max_failures:
+                    Wallet_logger.error("Max failures reached. Exiting...")
+                    Wallet_logger.error("Wallet offline for too long. Disconnecting user from the server.")
+                    DisconnectSocketServer(socket)
+                    esp_device.close()
+                    sys.exit(1)
         time.sleep(2)
 
 
@@ -92,3 +101,38 @@ def wait_for_device():
             return port
         else:
             time.sleep(2)
+
+
+
+def ConnectSocketServer(remote_server):
+    try:
+        if not remote_server or not isinstance(remote_server, str):
+            raise ValueError("Invalid remote_server. It must be a non-empty string in 'host:port' format.")
+
+        parts = remote_server.split(":")
+        if len(parts) != 2:
+            raise ValueError("remote_server must be in 'host:port' format.")
+        
+        host, port = parts[0], int(parts[1])
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.connect((host, port))
+        Wallet_logger.info(f"Connected to socket server at {remote_server}")
+        return sock
+    except ValueError as ve:
+        Wallet_logger.error(f"Invalid remote_server format or value: {ve}")
+        return None
+    except Exception as e:
+        Wallet_logger.error(f"Could not connect to the socket server: {e}")
+        return None
+
+
+
+def DisconnectSocketServer(client_socket):
+    try:
+        if client_socket:
+            client_socket.close()
+            Wallet_logger.info("Disconnected from socket server.")
+        else:
+            Wallet_logger.warning("No socket connection to close.")
+    except Exception as e:
+        Wallet_logger.error(f"Error closing socket connection: {e}")

@@ -1,0 +1,1947 @@
+2025-04-24 21:02:47,334 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:04:53,055 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-24 21:04:53,056 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyUSB0: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-04-29 01:11:32,458 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:11:55,335 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:11:55,445 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:12:03,464 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:12:05,370 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:12:05,370 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:12:05,370 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:12:05,429 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:12:05,430 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:12:05,445 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:12:05,540 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:12:14,101 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:12:14,120 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:12:14,133 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:12:14,133 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:12:14,133 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:12:14,138 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:34:28,592 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:34:28,701 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:34:28,706 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:34:29,814 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:34:29,814 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:34:29,814 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:34:29,815 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:34:29,815 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:34:29,815 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:34:29,898 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:34:39,080 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:34:39,097 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:34:39,113 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:34:39,113 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:34:39,114 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:34:39,118 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:34:39,119 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 01:37:25,843 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:37:25,943 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:37:25,948 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:37:27,056 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:37:27,057 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:37:27,057 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:37:27,057 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:37:27,058 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:37:27,058 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:37:27,136 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:37:34,282 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:37:34,298 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:37:34,317 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:37:34,317 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:37:34,317 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:37:34,322 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:37:34,322 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 01:41:26,464 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:41:26,567 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:41:26,571 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:41:27,685 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:41:27,686 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:41:27,686 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:41:27,686 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:41:27,687 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:41:27,687 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:41:27,769 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:41:35,187 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:41:35,204 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:41:35,227 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:41:35,227 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:41:35,227 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:41:35,232 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:41:35,232 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 01:41:35,240 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 01:41:35,240 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 01:41:35,248 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 01:42:04,409 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:42:04,520 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:42:04,524 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:42:05,644 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:42:05,645 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:42:05,645 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:42:05,645 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:42:05,645 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:42:05,646 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:42:05,724 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:42:12,484 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:42:12,501 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:42:12,515 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:42:12,518 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:42:12,519 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:42:12,523 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:42:12,531 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 01:42:12,538 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 01:42:12,538 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 01:42:12,546 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 01:42:12,548 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 01:42:12,581 - SecureWalletLogger - ERROR - Failed to connect to the socket server.
+2025-04-29 01:42:12,581 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 01:43:02,280 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 01:43:02,386 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 01:43:02,390 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 01:43:03,501 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 01:43:03,501 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 01:43:03,501 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 01:43:03,502 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 01:43:03,502 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 01:43:03,502 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 01:43:03,570 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 01:43:09,698 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 01:43:09,714 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 01:43:09,727 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 01:43:09,728 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 01:43:09,728 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 01:43:09,732 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 01:43:09,733 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 01:43:09,740 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 01:43:09,741 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 01:43:09,749 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 01:43:09,749 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 01:43:09,750 - SecureWalletLogger - ERROR - Failed to connect to the socket server.
+2025-04-29 01:43:09,750 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 10:10:10,059 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:10:10,198 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:10:10,203 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:10:11,324 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:10:11,324 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 10:10:11,325 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 10:10:11,326 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 10:10:11,327 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 10:10:11,328 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 10:10:11,441 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 10:10:18,602 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 10:10:18,618 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 10:10:18,632 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 10:10:18,632 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 10:10:18,633 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 10:10:24,637 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-29 10:10:24,639 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 10:10:42,417 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:10:42,544 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:10:42,549 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:10:43,662 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:10:43,662 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 10:10:43,662 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 10:10:43,662 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 10:10:43,663 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 10:10:43,663 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 10:10:43,738 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 10:10:52,197 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 10:10:52,213 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 10:10:52,232 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 10:10:52,232 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 10:10:52,232 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 10:10:58,236 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-29 10:10:58,238 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 10:11:13,465 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:11:13,593 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:11:13,597 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:11:14,711 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:11:14,711 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 10:11:14,711 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 10:11:14,711 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 10:11:14,711 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 10:11:14,712 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 10:11:14,791 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 10:11:26,109 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 10:11:26,126 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 10:11:26,148 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 10:11:26,148 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 10:11:26,149 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 10:11:32,151 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-29 10:11:32,153 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 10:12:26,942 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:12:27,074 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:12:27,080 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:12:28,190 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:12:28,190 - SecureWalletLogger - ERROR - Invalid server URL type. Expected string format 'host:port'
+2025-04-29 10:12:28,191 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 10:12:28,191 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 10:12:28,191 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 10:12:28,191 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 10:12:28,191 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 10:12:28,264 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 10:12:35,017 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 10:12:35,028 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 10:12:35,028 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 10:12:35,028 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 10:27:10,195 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:29:02,261 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:29:02,362 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:29:12,385 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:29:13,493 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:30:23,231 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 10:30:23,359 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 10:30:23,364 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 10:30:24,473 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 10:30:24,474 - SecureWalletLogger - ERROR - Server address is not provided.
+2025-04-29 10:30:24,474 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 10:30:24,474 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 10:30:24,474 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 10:30:24,474 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 10:30:24,475 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 10:30:24,546 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 10:30:33,435 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 10:30:33,451 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 10:30:33,470 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 10:30:33,470 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 10:30:33,470 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 10:30:33,475 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 10:30:33,476 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 10:30:33,483 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 10:30:33,484 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 10:30:33,492 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 10:30:33,493 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 10:30:33,493 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 12:49:32,581 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 12:49:32,699 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 12:49:32,703 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 12:49:33,822 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 12:49:33,823 - SecureWalletLogger - ERROR - Server address is not provided.
+2025-04-29 12:49:33,823 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 12:49:33,823 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 12:49:33,823 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 12:49:33,823 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 12:49:33,824 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 12:49:33,903 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 12:49:41,621 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 12:49:41,638 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 12:49:41,650 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 12:49:41,651 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 12:49:41,651 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 12:49:41,655 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 12:49:41,656 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 12:49:41,664 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 12:49:41,667 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 12:49:41,673 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 12:49:41,674 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 12:49:41,674 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 12:55:49,850 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 12:55:50,010 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 12:55:50,015 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 12:55:51,132 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 12:55:51,132 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 12:55:51,132 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 12:55:51,132 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 12:55:51,133 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 12:55:51,133 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 12:55:51,133 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 12:55:51,206 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 12:55:58,660 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 12:55:58,676 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 12:55:58,691 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 12:55:58,692 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 12:55:58,692 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 12:55:58,697 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 12:55:58,697 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 12:55:58,705 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 12:55:58,705 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 12:55:58,713 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 12:55:58,713 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 12:55:58,715 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 12:59:26,185 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 12:59:26,307 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 12:59:26,314 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 12:59:27,437 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 12:59:58,160 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 12:59:58,330 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 12:59:58,337 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 12:59:59,479 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 12:59:59,479 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 12:59:59,480 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 12:59:59,480 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 12:59:59,480 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 12:59:59,480 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 12:59:59,480 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 12:59:59,573 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:00:21,736 - SecureWalletLogger - DEBUG - Cancel callback triggered
+2025-04-29 13:00:21,753 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:00:21,773 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:00:21,773 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:00:21,774 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:01:00,505 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:01:00,620 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:01:00,624 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:01:00,653 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:01:00,653 - SecureWalletLogger - ERROR - Could not connect to the socket server: 'NoneType' object has no attribute 'split'
+2025-04-29 13:01:00,653 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:01:00,653 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:01:00,654 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:01:00,654 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:01:00,654 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:01:00,728 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:01:19,436 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:01:19,453 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:01:19,471 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:01:19,471 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:01:19,472 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:01:19,476 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:01:19,476 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:01:19,485 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:01:19,486 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:01:19,494 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:01:19,495 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 13:01:19,496 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 13:02:20,292 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:02:20,396 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:02:20,401 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:02:20,423 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:02:20,423 - SecureWalletLogger - ERROR - Invalid remote_server format or value: Invalid remote_server. It must be a non-empty string in 'host:port' format.
+2025-04-29 13:02:20,423 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:02:20,424 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:02:20,424 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:02:20,424 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:02:20,425 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:02:20,493 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:02:34,250 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:02:34,259 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:02:34,259 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:02:34,259 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:03:19,265 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:03:19,392 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:03:19,399 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:03:19,417 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:03:19,418 - SecureWalletLogger - ERROR - Invalid remote_server format or value: Invalid remote_server. It must be a non-empty string in 'host:port' format.
+2025-04-29 13:03:19,418 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:03:19,419 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:03:19,419 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:03:19,420 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:03:19,421 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:03:19,502 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:03:24,677 - SecureWalletLogger - DEBUG - Cancel callback triggered
+2025-04-29 13:03:24,694 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:03:24,707 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:03:24,707 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:03:24,708 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:03:56,356 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:03:56,478 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:03:56,483 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:03:56,500 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:03:56,500 - SecureWalletLogger - ERROR - Invalid remote_server format or value: too many values to unpack (expected 2)
+2025-04-29 13:03:56,501 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:03:56,501 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:03:56,501 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:03:56,501 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:03:56,502 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:03:56,590 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:04:24,346 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:04:24,362 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:04:24,376 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:04:24,377 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:04:24,377 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:04:24,382 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:04:24,382 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:04:24,390 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:04:24,390 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:04:24,398 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:04:24,398 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-04-29 13:04:24,399 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 13:14:08,416 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:14:08,519 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:14:08,525 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:14:08,541 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:14:08,541 - SecureWalletLogger - ERROR - Invalid remote_server format or value: remote_server must be in 'host:port' format.
+2025-04-29 13:14:08,541 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:14:08,541 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:14:08,542 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:14:08,542 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:14:08,542 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:14:08,621 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:14:13,107 - SecureWalletLogger - DEBUG - Cancel callback triggered
+2025-04-29 13:14:13,124 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:14:13,141 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:14:13,141 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:14:13,141 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:16:23,707 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:16:23,830 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:16:23,837 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:16:23,855 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:16:23,856 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -2] Name or service not known
+2025-04-29 13:16:23,856 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:16:23,857 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:16:23,857 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:16:23,857 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:16:23,858 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:16:23,936 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:16:52,829 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:16:52,840 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:16:52,840 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:16:52,840 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:17:40,762 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:17:40,892 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:17:40,896 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:17:40,913 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:17:40,914 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno -3] Temporary failure in name resolution
+2025-04-29 13:17:40,914 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:17:40,914 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:17:40,915 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:17:40,917 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:17:40,918 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:17:41,000 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:17:46,860 - SecureWalletLogger - DEBUG - Cancel callback triggered
+2025-04-29 13:17:46,876 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:17:46,890 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:17:46,893 - SecureWalletLogger - DEBUG - Returning password: None
+2025-04-29 13:17:46,893 - SecureWalletLogger - INFO - No password entered. Exiting.
+2025-04-29 13:19:16,062 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:19:16,208 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:19:16,213 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:19:16,236 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:19:16,236 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 13:19:16,237 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:19:16,237 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:19:16,238 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:19:16,238 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:19:16,238 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:19:16,315 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:19:38,474 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:19:38,490 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:19:38,509 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:19:38,510 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:19:38,510 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:19:38,515 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:19:38,515 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:19:38,524 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:19:38,525 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:19:38,533 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:19:38,533 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:19:40,516 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:19:40,516 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 13:19:44,517 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:19:44,517 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 13:19:48,518 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:19:48,518 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 13:19:52,519 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:19:52,519 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 13:19:56,520 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:19:56,520 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 13:19:56,520 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:32:49,602 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:32:49,712 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:32:49,717 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:32:49,742 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:32:49,743 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 13:32:49,743 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:32:49,743 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:32:49,744 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:32:49,744 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:32:49,744 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:32:49,815 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:33:08,005 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:33:08,021 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:33:08,031 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:33:08,031 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:33:08,031 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:33:08,035 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:33:08,036 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:33:08,043 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:33:08,044 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:33:08,052 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:33:08,053 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:33:10,036 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:33:10,036 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 13:33:14,039 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:33:14,039 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 13:33:18,040 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:33:18,041 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 13:33:22,041 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:33:22,042 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 13:33:26,042 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:33:26,043 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 13:33:26,043 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:43:51,881 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 13:43:51,883 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 13:43:59,665 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:43:59,768 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:43:59,772 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:43:59,794 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:43:59,795 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 13:43:59,795 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:43:59,795 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:43:59,795 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:43:59,796 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:43:59,796 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:43:59,903 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:44:09,977 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:44:09,993 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:44:10,007 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:44:10,007 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:44:10,012 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:44:10,012 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:44:10,013 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:44:10,020 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:44:10,021 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:44:10,029 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:44:10,030 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:44:12,013 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:44:12,013 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 13:44:59,896 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:45:00,006 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:45:00,011 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:45:00,034 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:45:00,034 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 13:45:00,034 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:45:00,034 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:45:00,035 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:45:00,035 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:45:00,035 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:45:00,107 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:45:10,928 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:45:10,945 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:45:10,959 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:45:10,959 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:45:10,960 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:45:10,965 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:45:10,969 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:45:10,975 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 13:45:10,975 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:45:10,983 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:45:10,985 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 13:45:12,967 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:45:12,968 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 13:45:16,969 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:45:16,969 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 13:45:20,970 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:45:20,970 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 13:45:24,971 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:45:24,971 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 13:45:28,972 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:45:28,972 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 13:45:28,973 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:48:42,012 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 13:48:42,112 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 13:48:42,117 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 13:48:42,135 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 13:48:42,136 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 13:48:42,136 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 13:48:42,136 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 13:48:42,136 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 13:48:42,137 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 13:48:42,137 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 13:48:42,207 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 13:49:00,924 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 13:49:00,940 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 13:49:00,956 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 13:49:00,957 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 13:49:00,957 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 13:49:00,961 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 13:49:00,963 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 13:49:00,971 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x7f960ed9a490787a2b2a7819026bbf8e24ff8062
+2025-04-29 13:49:00,972 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 13:49:00,981 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x2f42b26238c14de71083958d2791fa8269ff091a
+2025-04-29 13:49:00,983 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x7f960ed9a490787a2b2a7819026bbf8e24ff8062,ADDR_AUTH 0x2f42b26238c14de71083958d2791fa8269ff091a
+2025-04-29 13:49:02,963 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:49:02,963 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 13:49:06,964 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:49:06,964 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 13:49:10,965 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:49:10,965 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 13:49:14,966 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:49:14,967 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 13:49:18,967 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 13:49:18,968 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 13:49:18,968 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 13:50:01,822 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 13:50:01,824 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 14:01:42,110 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 14:01:42,218 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 14:01:42,222 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 14:01:42,246 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 14:01:42,247 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 14:01:42,247 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 14:01:42,248 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 14:01:42,249 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 14:01:42,250 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 14:01:42,250 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 14:01:42,329 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 14:02:02,798 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 14:02:02,814 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 14:02:02,828 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 14:02:02,828 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 14:02:02,828 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 14:02:02,833 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 14:02:02,834 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 14:02:02,844 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 14:02:02,845 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 14:02:02,853 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 14:02:02,853 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 14:02:04,834 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:02:04,834 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 14:02:08,835 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:02:08,835 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 14:02:12,836 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:02:12,836 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 14:02:16,837 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:02:16,838 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 14:04:59,160 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 14:04:59,275 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 14:04:59,280 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 14:04:59,295 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 14:04:59,295 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 14:04:59,295 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 14:04:59,295 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 14:04:59,296 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 14:04:59,296 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 14:04:59,296 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 14:04:59,373 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 14:05:06,725 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 14:05:06,741 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 14:05:06,755 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 14:05:06,756 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 14:05:06,756 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 14:05:06,760 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 14:05:06,761 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 14:05:06,769 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 14:05:06,769 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 14:05:06,777 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 14:05:06,777 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6,ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 14:05:08,762 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:05:08,762 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 14:05:12,763 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:05:12,763 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 14:05:16,764 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:05:16,765 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 14:05:20,765 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:05:20,766 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 14:05:24,766 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:05:24,767 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 14:05:24,767 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 14:11:15,675 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 14:11:15,776 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 14:11:15,780 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 14:11:15,795 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 14:11:15,795 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 14:11:15,795 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 14:11:15,795 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 14:11:15,796 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 14:11:15,796 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 14:11:15,796 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 14:11:15,874 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 14:11:21,925 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 14:11:21,942 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 14:11:21,954 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 14:11:21,954 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 14:11:21,955 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 14:11:21,959 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 14:11:21,960 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 14:11:21,967 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 14:11:21,968 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 14:11:21,976 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 14:11:21,976 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 14:11:23,960 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:11:23,960 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 14:11:27,961 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:11:27,962 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 14:11:31,962 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:11:31,963 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 14:11:35,963 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:11:35,964 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 14:11:39,965 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:11:39,965 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 14:11:39,965 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 14:12:55,575 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 14:12:55,576 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 14:13:07,782 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 14:13:07,888 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 14:13:07,893 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 14:13:07,911 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 14:13:07,911 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 14:13:07,912 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 14:13:07,912 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 14:13:07,912 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 14:13:07,913 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 14:13:07,913 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 14:13:07,993 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 14:13:16,285 - SecureWalletLogger - DEBUG - Submit callback: Password = Password123
+2025-04-29 14:13:16,301 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 14:13:16,314 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 14:13:16,314 - SecureWalletLogger - DEBUG - Returning password: Password123
+2025-04-29 14:13:16,315 - SecureWalletLogger - INFO - Sent: PASS Password123
+2025-04-29 14:13:16,318 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-29 14:13:16,320 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 14:13:22,403 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 14:13:22,516 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 14:13:22,520 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 14:13:22,537 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 14:13:22,537 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 14:13:22,537 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 14:13:22,538 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 14:13:22,538 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 14:13:22,540 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 14:13:22,540 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 14:13:22,621 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 14:13:30,163 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 14:13:30,179 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 14:13:30,194 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 14:13:30,194 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 14:13:30,194 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 14:13:30,199 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 14:13:30,199 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 14:13:30,207 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 14:13:30,207 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 14:13:30,215 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 14:13:30,216 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 14:13:32,199 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:13:32,200 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 14:13:36,201 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:13:36,201 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 14:13:40,202 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 14:13:40,203 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 18:19:37,689 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 18:19:37,794 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 18:19:37,799 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 18:19:37,817 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 18:19:37,818 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 18:19:37,819 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 18:19:37,819 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 18:19:37,820 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 18:19:37,820 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 18:19:37,821 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 18:19:37,905 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 18:22:13,939 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 18:22:13,957 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 18:22:13,970 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 18:22:13,970 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 18:22:13,970 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 18:22:13,974 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 18:22:13,975 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 18:22:13,982 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x3e9a8f8d46ae8de0e968bb555e3992687b326117
+2025-04-29 18:22:13,983 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 18:22:13,992 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x9e4b5085649a1346162df572c98a2b25d2efc004
+2025-04-29 18:22:13,992 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x3e9a8f8d46ae8de0e968bb555e3992687b326117,ADDR_AUTH 0x9e4b5085649a1346162df572c98a2b25d2efc004
+2025-04-29 18:22:15,975 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:22:15,975 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 18:22:19,976 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:22:19,977 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 18:22:23,977 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:22:23,978 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 18:22:27,979 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:22:27,979 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 18:22:31,980 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:22:31,980 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 18:22:31,980 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 18:41:46,892 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 18:41:46,995 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 18:41:46,999 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 18:41:47,022 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 18:41:47,022 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 18:41:47,022 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 18:41:47,023 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 18:41:47,023 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 18:41:47,023 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 18:41:47,023 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 18:41:47,096 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 18:41:54,560 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 18:41:54,576 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 18:41:54,587 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 18:41:54,587 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 18:41:54,587 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 18:41:54,592 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 18:41:54,593 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 18:41:54,601 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x008d759c01adad5adb6358d32c86b2e9225d472e
+2025-04-29 18:41:54,601 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 18:41:54,609 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0xd1b75aaa6c90647a1913f79b3f2f344bff35e71c
+2025-04-29 18:41:54,610 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x008d759c01adad5adb6358d32c86b2e9225d472e,ADDR_AUTH 0xd1b75aaa6c90647a1913f79b3f2f344bff35e71c
+2025-04-29 18:41:56,593 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:41:56,593 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 18:42:00,594 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:42:00,594 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 18:42:04,595 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:42:04,595 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 18:42:08,596 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:42:08,596 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 18:42:12,597 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:42:12,597 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 18:42:12,597 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 18:42:47,226 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 18:42:47,342 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 18:42:47,346 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 18:42:47,364 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 18:42:47,365 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 18:42:47,365 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 18:42:47,365 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 18:42:47,365 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 18:42:47,366 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 18:42:47,366 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 18:42:47,451 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 18:42:54,245 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 18:42:54,261 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 18:42:54,275 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 18:42:54,275 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 18:42:54,276 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 18:42:54,280 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 18:42:54,280 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 18:42:54,288 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 18:42:54,288 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 18:42:54,297 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 18:42:54,297 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 18:42:56,281 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:42:56,281 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 18:43:00,282 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:43:00,282 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 18:43:04,283 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:43:04,284 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 18:43:08,284 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:43:08,285 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 18:43:12,286 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 18:43:12,286 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 18:43:12,286 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 19:43:55,439 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 19:43:55,535 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 19:43:55,539 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 19:43:55,562 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 19:43:55,563 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 19:43:55,563 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 19:43:55,563 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 19:43:55,563 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 19:43:55,564 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 19:43:55,564 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 19:43:55,646 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 19:44:07,451 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 19:44:07,467 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 19:44:07,483 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 19:44:07,484 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 19:44:07,484 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 19:44:07,488 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 19:44:07,489 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 19:44:07,496 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 19:44:07,497 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 19:44:07,505 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 19:44:07,505 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 19:44:09,489 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 19:44:09,490 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 19:44:13,490 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 19:44:13,491 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 19:44:17,492 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 19:44:17,493 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 19:44:21,494 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 19:44:21,494 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 19:44:25,495 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 19:44:25,495 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 19:44:25,496 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:24:57,612 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:24:57,718 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:25:57,826 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:25:57,846 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:25:57,847 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:25:57,848 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:25:57,848 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:25:57,849 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:25:57,849 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:25:57,849 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:25:57,924 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:26:03,961 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:26:03,978 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:26:03,990 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:26:03,990 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:26:03,990 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:26:03,995 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:26:03,996 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:26:04,004 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:26:04,005 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:26:04,012 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:26:04,013 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:26:04,013 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 20:26:04,013 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 20:26:07,599 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:26:07,717 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:26:07,722 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:26:07,737 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:26:07,738 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:26:07,738 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:26:07,738 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:26:07,739 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:26:07,739 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:26:07,739 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:26:07,822 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:26:19,859 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:26:19,875 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:26:19,893 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:26:19,894 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:26:19,894 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:26:19,898 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:26:19,899 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:26:19,906 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 20:26:19,907 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:26:19,915 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 20:26:19,916 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6,ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 20:26:19,917 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 20:26:19,917 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 20:31:32,352 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:31:32,463 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:31:32,468 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:31:32,484 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:31:32,485 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:31:32,485 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:31:32,485 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:31:32,485 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:31:32,488 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:31:32,488 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:31:32,568 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:31:40,429 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:31:40,445 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:31:40,458 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:31:40,458 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:31:40,458 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:31:40,463 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:31:40,464 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:31:40,471 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:31:40,473 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:31:40,482 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:31:40,482 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:31:42,464 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:31:42,465 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 20:31:46,465 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:31:46,466 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 20:31:50,466 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:31:50,467 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 20:31:54,468 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:31:54,468 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 20:31:58,469 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:31:58,470 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 20:31:58,470 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:33:05,738 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:33:05,839 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:33:05,844 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:33:05,865 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:33:05,865 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:33:05,865 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:33:05,865 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:33:05,866 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:33:05,866 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:33:05,866 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:33:05,941 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:33:12,027 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:33:12,047 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:33:12,059 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:33:12,059 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:33:12,060 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:33:12,064 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:33:12,064 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:33:12,072 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:33:12,072 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:33:12,080 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:33:12,081 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:33:14,065 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:33:14,065 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 20:33:18,066 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:33:18,066 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 20:33:22,067 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:33:22,068 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 20:33:26,069 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:33:26,069 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 20:33:30,070 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:33:30,071 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 20:33:30,071 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:33:30,071 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-29 20:35:45,153 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:35:45,257 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:35:45,261 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:35:45,285 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:35:45,285 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:35:45,285 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:35:45,285 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:35:45,286 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:35:45,286 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:35:45,286 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:35:45,358 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:35:53,304 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:35:53,320 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:35:53,337 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:35:53,337 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:35:53,338 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:35:53,342 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:35:53,343 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:35:53,351 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:35:53,352 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:35:53,359 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:35:53,360 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:35:55,343 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:35:55,344 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 20:35:59,345 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:35:59,345 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 20:36:03,345 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:36:03,346 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 20:36:07,346 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:36:07,347 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 20:36:11,348 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:36:11,349 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 20:36:11,349 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:36:11,349 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-29 20:56:59,371 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:56:59,477 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:56:59,482 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:56:59,506 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:56:59,506 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:56:59,506 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:56:59,506 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:56:59,507 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:56:59,507 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:56:59,507 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:56:59,591 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:57:07,199 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:57:07,216 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:57:07,229 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:57:07,229 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:57:07,230 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:57:07,234 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:57:07,235 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:57:07,242 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:57:07,243 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:57:07,251 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:57:07,251 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:57:09,235 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:57:09,236 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-04-29 20:57:13,237 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:57:13,237 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-04-29 20:57:17,238 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:57:17,238 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-04-29 20:57:21,239 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:57:21,240 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-04-29 20:57:25,240 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-04-29 20:57:25,241 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-04-29 20:57:25,241 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-04-29 20:57:25,241 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-04-29 20:57:33,519 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 20:57:33,616 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 20:57:33,620 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 20:57:33,640 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 20:57:33,641 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 20:57:33,641 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 20:57:33,641 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 20:57:33,642 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 20:57:33,642 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 20:57:33,642 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 20:57:33,719 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 20:57:39,826 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 20:57:39,843 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 20:57:39,858 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 20:57:39,858 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 20:57:39,859 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 20:57:39,863 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 20:57:39,863 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 20:57:39,871 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 20:57:39,871 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 20:57:39,879 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 20:57:39,880 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:02:34,199 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:02:34,302 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:02:34,307 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:02:34,323 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:02:34,324 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:02:34,324 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:02:34,324 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:02:34,324 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:02:34,324 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:02:34,325 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:02:34,407 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:02:40,510 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:02:40,526 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:02:40,542 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:02:40,542 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:02:40,543 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:02:40,547 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:02:40,548 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:02:40,556 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:02:40,556 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:02:40,564 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:02:40,565 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:11:12,899 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:11:13,001 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:11:13,006 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:11:13,026 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:11:13,026 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:11:13,026 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:11:13,027 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:11:13,027 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:11:13,027 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:11:13,027 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:11:13,100 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:11:22,768 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:11:22,785 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:11:22,795 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:11:22,796 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:11:22,796 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:11:22,800 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:11:22,801 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:11:22,809 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:11:22,810 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:11:22,818 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:11:22,820 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:12:55,327 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 21:12:55,329 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 21:13:03,647 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:13:03,745 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:13:03,750 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:13:03,769 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:13:03,770 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:13:03,770 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:13:03,770 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:13:03,771 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:13:03,771 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:13:03,771 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:13:03,847 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:13:12,929 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:13:12,945 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:13:12,956 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:13:12,957 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:13:12,957 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:13:12,961 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:13:12,962 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:13:12,970 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:13:12,972 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:13:12,980 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:13:12,984 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:21:18,145 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 21:21:18,146 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 21:21:38,948 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:21:39,046 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:21:39,050 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:21:39,069 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:21:39,070 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:21:39,070 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:21:39,070 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:21:39,070 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:21:39,071 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:21:39,071 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:21:39,160 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:21:46,051 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:21:46,067 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:21:46,084 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:21:46,085 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:21:46,085 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:21:46,089 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:21:46,090 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:21:46,098 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:21:46,101 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:21:46,112 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:21:46,113 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:22:31,828 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 21:22:31,830 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 21:24:56,673 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:24:56,775 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:24:56,780 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:24:56,798 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:24:56,799 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:24:56,799 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:24:56,799 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:24:56,799 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:24:56,800 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:24:56,800 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:24:56,878 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:25:03,095 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:25:03,110 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:25:03,128 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:25:03,128 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:25:03,128 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:25:03,134 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:25:03,135 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:25:03,142 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:25:03,145 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:25:03,152 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:25:03,153 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:31:43,039 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:31:43,148 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:31:43,152 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:31:43,169 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:31:43,170 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:31:43,170 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:31:43,170 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:31:43,170 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:31:43,171 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:31:43,171 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:31:43,249 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:31:55,817 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:31:55,833 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:31:55,848 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:31:55,849 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:31:55,849 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:31:55,853 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:31:55,855 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:31:55,862 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 21:31:55,862 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:31:55,870 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 21:31:55,872 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6,ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 21:32:21,136 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:32:21,239 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:32:21,243 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:32:21,264 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:32:21,264 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:32:21,264 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:32:21,265 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:32:21,265 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:32:21,265 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:32:21,266 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:32:21,336 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:32:28,678 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:32:28,694 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:32:28,707 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:32:28,707 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:32:28,707 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:32:28,712 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:32:28,713 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:32:28,720 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:32:28,722 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:32:28,730 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:32:28,730 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:34:21,133 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:34:21,232 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:34:21,237 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:34:21,260 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:34:21,261 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:34:21,261 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:34:21,261 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:34:21,261 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:34:21,262 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:34:21,262 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:34:21,335 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:34:27,660 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:34:27,676 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:34:27,689 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:34:27,690 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:34:27,690 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:34:27,694 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:34:27,695 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:34:27,703 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:34:27,703 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:34:27,711 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:34:27,715 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:47:59,112 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:47:59,212 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:47:59,217 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:47:59,237 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:47:59,237 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:47:59,237 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:47:59,238 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:47:59,238 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:47:59,238 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:47:59,238 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:47:59,310 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:48:07,661 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:48:07,677 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:48:07,691 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:48:07,692 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:48:07,692 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:48:07,696 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:48:07,699 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:48:07,704 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:48:07,706 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:48:07,714 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:48:07,714 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:49:40,223 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:49:40,321 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:49:40,325 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:49:40,344 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:49:40,344 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:49:40,344 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:49:40,344 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:49:40,344 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:49:40,344 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:49:40,345 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:49:40,414 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:49:53,839 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:49:53,855 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:49:53,871 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:49:53,872 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:49:53,872 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:49:53,877 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:49:53,878 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:49:53,886 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:49:53,887 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:49:53,895 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 21:49:53,896 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 21:54:07,849 - SecureWalletLogger - WARNING - Server response: . Authentication failed.
+2025-04-29 21:54:07,850 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 21:54:21,118 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 21:54:21,218 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 21:54:21,222 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 21:54:21,243 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 21:54:21,243 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 21:54:21,243 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 21:54:21,243 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 21:54:21,244 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 21:54:21,244 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 21:54:21,244 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 21:54:21,317 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 21:54:28,073 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 21:54:28,090 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 21:54:28,105 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 21:54:28,106 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 21:54:28,106 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 21:54:28,110 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 21:54:28,111 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 21:54:28,118 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 21:54:28,120 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 21:54:28,128 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 21:54:28,129 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 22:03:27,421 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 22:03:27,525 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 22:03:27,529 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 22:03:27,552 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 22:03:27,552 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 22:03:27,552 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 22:03:27,553 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 22:03:27,553 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 22:03:27,553 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 22:03:27,553 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 22:03:27,626 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 22:03:34,758 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 22:03:34,774 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 22:03:34,792 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 22:03:34,792 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 22:03:34,792 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 22:03:34,797 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 22:03:34,798 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 22:03:34,805 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6
+2025-04-29 22:03:34,806 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 22:03:34,814 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+2025-04-29 22:03:34,814 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0x64875623cc9d1569c4319c78cc6af415ff45a1d6,ADDR_AUTH 0x673e5f111efe7e4776c9964a7d47f44059c5398a
+
+2025-04-29 22:03:34,816 - SecureWalletLogger - WARNING - Server response: Invalid authentication address. Closing connection.
+. Authentication failed.
+2025-04-29 22:03:34,819 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 22:03:51,022 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 22:03:51,141 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 22:03:51,145 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 22:03:51,161 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 22:03:51,161 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 22:03:51,161 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 22:03:51,162 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 22:03:51,162 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 22:03:51,162 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 22:03:51,162 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 22:03:51,239 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 22:03:58,680 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 22:03:58,697 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 22:03:58,710 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 22:03:58,710 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 22:03:58,711 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 22:03:58,715 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 22:03:58,718 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 22:03:58,723 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 22:03:58,725 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 22:03:58,733 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 22:03:58,735 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+
+2025-04-29 22:03:58,739 - SecureWalletLogger - WARNING - Server response: Invalid authentication address. Closing connection.
+. Authentication failed.
+2025-04-29 22:03:58,745 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 23:09:56,441 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 23:09:56,539 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 23:09:56,543 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 23:09:56,571 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 23:09:56,571 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 23:09:56,571 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 23:09:56,571 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 23:09:56,571 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 23:09:56,572 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 23:09:56,572 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 23:09:56,649 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 23:10:04,617 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 23:10:04,633 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 23:10:04,646 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 23:10:04,647 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 23:10:04,647 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 23:10:09,655 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-29 23:10:09,658 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 23:10:14,443 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 23:10:14,567 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 23:10:14,572 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 23:10:14,591 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 23:10:14,591 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 23:10:14,592 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 23:10:14,593 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 23:10:14,593 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 23:10:14,594 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 23:10:14,594 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 23:10:14,680 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 23:10:29,121 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 23:10:29,138 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 23:10:29,151 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 23:10:29,152 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 23:10:29,152 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 23:10:29,156 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 23:10:29,156 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 23:10:29,165 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 23:10:29,166 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 23:10:29,174 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 23:10:29,175 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+
+2025-04-29 23:10:29,179 - SecureWalletLogger - WARNING - Server response: Invalid authentication address. Closing connection.
+. Authentication failed.
+2025-04-29 23:10:29,181 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-29 23:13:49,602 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-29 23:13:49,708 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-29 23:13:49,712 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-29 23:13:49,733 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-29 23:13:49,734 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-29 23:13:49,734 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-29 23:13:49,734 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-29 23:13:49,734 - SecureWalletLogger - DEBUG - Context created
+2025-04-29 23:13:49,734 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-29 23:13:49,735 - SecureWalletLogger - DEBUG - Window created
+2025-04-29 23:13:49,810 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-29 23:13:57,149 - SecureWalletLogger - DEBUG - Submit callback: Password = password123
+2025-04-29 23:13:57,165 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-29 23:13:57,177 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-29 23:13:57,177 - SecureWalletLogger - DEBUG - Returning password: password123
+2025-04-29 23:13:57,178 - SecureWalletLogger - INFO - Sent: PASS password123
+2025-04-29 23:13:57,182 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-29 23:13:57,183 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-29 23:13:57,191 - SecureWalletLogger - INFO - Received request address: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f
+2025-04-29 23:13:57,191 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-29 23:13:57,199 - SecureWalletLogger - INFO - Received auth address: ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+2025-04-29 23:13:57,200 - SecureWalletLogger - INFO - Sent to server: ADDR_REQ 0xd555915075371c7ca99eda93b731f3b7aef94b1f,ADDR_AUTH 0x03fa21f9549972becdb7885c1d16e980f05abd93
+
+2025-04-29 23:13:57,204 - SecureWalletLogger - WARNING - Server response: Invalid authentication address. Closing connection.
+. Authentication failed.
+2025-04-29 23:13:57,207 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:00:56,238 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:00:56,610 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:00:56,614 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:00:56,637 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:00:56,638 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-04-30 23:00:56,670 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:00:56,671 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:00:56,671 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:00:56,672 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:00:56,672 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:00:56,751 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:01:02,807 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:01:02,826 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:01:02,838 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:01:02,838 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:01:02,839 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:01:07,850 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-30 23:01:07,852 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:01:51,950 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:01:52,050 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:01:52,055 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:01:52,071 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-04-30 23:02:13,912 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:02:14,014 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:02:20,031 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:02:20,051 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:02:20,051 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-04-30 23:02:20,052 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:02:20,052 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:02:20,052 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:02:20,053 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:02:20,053 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:02:20,130 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:02:28,046 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:02:28,063 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:02:28,076 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:02:28,077 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:02:28,077 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:02:33,086 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-30 23:02:33,087 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:10:44,219 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:10:44,328 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:10:50,343 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:10:50,362 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-04-30 23:11:00,685 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:11:00,808 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:11:06,822 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:11:06,844 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:11:06,844 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:11:06,845 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:11:06,846 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:11:06,846 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:11:06,849 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:11:06,850 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:11:06,929 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:11:14,954 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:11:14,970 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:11:14,984 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:11:14,984 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:11:14,985 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:11:15,486 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:11:15,486 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:11:15,505 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346
+2025-04-30 23:11:15,506 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:11:15,524 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+2025-04-30 23:11:15,525 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346,3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+
+2025-04-30 23:11:15,526 - SecureWalletLogger - WARNING - Server response: Invalid request address. Closing connection.
+. Authentication failed.
+2025-04-30 23:11:15,528 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:17:12,974 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:17:13,079 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:17:13,083 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:17:13,104 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:17:13,104 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:17:13,104 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:17:13,104 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:17:13,105 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:17:13,105 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:17:13,105 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:17:13,184 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:17:18,156 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:17:18,173 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:17:18,185 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:17:18,186 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:17:18,186 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:17:18,190 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:17:18,190 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:17:18,209 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346
+2025-04-30 23:17:18,210 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:17:18,229 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+2025-04-30 23:17:18,229 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346,3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+
+2025-04-30 23:17:18,231 - SecureWalletLogger - WARNING - Server response: Invalid request address. Closing connection.
+. Authentication failed.
+2025-04-30 23:17:18,234 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:25:00,306 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:25:00,409 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:25:00,413 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:25:00,434 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:25:00,434 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:25:00,434 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:25:00,434 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:25:00,435 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:25:00,435 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:25:00,435 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:25:00,521 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:25:07,999 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:25:08,016 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:25:08,028 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:25:08,028 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:25:08,029 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:25:08,033 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:25:08,033 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:25:08,053 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346
+2025-04-30 23:25:08,054 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:25:08,074 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+2025-04-30 23:25:08,076 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346,3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+
+2025-04-30 23:25:08,078 - SecureWalletLogger - WARNING - Server response: OK
+. Authentication failed.
+2025-04-30 23:25:08,080 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:41:24,046 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:41:24,151 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:41:32,174 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:41:32,196 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:41:32,197 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:41:32,197 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:41:32,197 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:41:32,197 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:41:32,197 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:41:32,198 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:41:32,277 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:41:39,051 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:41:39,067 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:41:39,083 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:41:39,084 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:41:39,087 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:41:45,092 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-30 23:41:45,094 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:41:55,650 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:41:55,750 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:41:55,755 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:41:55,773 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:41:55,774 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:41:55,774 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:41:55,775 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:41:55,775 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:41:55,775 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:41:55,775 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:41:55,857 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:42:01,987 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:42:02,004 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:42:02,017 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:42:02,017 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:42:02,018 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:42:08,022 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-30 23:42:08,025 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:44:19,134 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:44:19,239 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:44:19,244 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:44:19,268 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:44:19,268 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:44:19,269 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:44:19,269 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:44:19,270 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:44:19,270 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:44:19,271 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:44:19,352 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:44:25,671 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:44:25,688 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:44:25,705 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:44:25,706 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:44:25,706 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:44:31,711 - SecureWalletLogger - WARNING - Authentication failed.
+2025-04-30 23:44:31,713 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:45:37,043 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:45:37,147 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:45:37,152 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:45:37,174 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:45:37,174 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:45:37,174 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:45:37,174 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:45:37,175 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:45:37,175 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:45:37,175 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:45:37,269 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:45:43,953 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:45:43,969 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:45:43,985 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:45:43,985 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:45:43,985 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:45:43,989 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:45:43,990 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:45:44,015 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346
+2025-04-30 23:45:44,017 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:45:44,037 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+2025-04-30 23:45:44,039 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200048ce362686e47186a2d8f828164cb9dd26c144bd5ac0aa301a26a11ff84aed9f50d01fa323ec104c80a4f58491776be5f7ac9a5df79bf5f74e965eee6d4d5b346,3059301306072a8648ce3d020106082a8648ce3d03010703420004aa8d580b98f64096943ae22dd9ffd95e2902f7649df15bf435ec5febc2692cf39057aa964eb12ac940b1ce92715e0bc989550498e476fa22c1625e000aae9a38
+
+2025-04-30 23:45:44,040 - SecureWalletLogger - WARNING - Server response: Invalid authentication address. Closing connection.
+. Authentication failed.
+2025-04-30 23:45:44,043 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:49:43,297 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:49:43,402 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:49:49,416 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:49:49,437 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:49:49,437 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:49:49,438 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:49:49,438 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:49:49,438 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:49:49,438 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:49:49,439 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:49:49,523 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:49:56,379 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:49:56,396 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:49:56,413 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:49:56,413 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:49:56,415 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:49:56,915 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:49:56,916 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:49:56,935 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-04-30 23:49:56,936 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:49:56,955 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-04-30 23:49:56,956 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-04-30 23:49:56,959 - SecureWalletLogger - WARNING - Server response: OK
+. Authentication failed.
+2025-04-30 23:49:56,963 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:56:36,972 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:56:37,073 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:56:37,077 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:56:37,096 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:56:37,096 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:56:37,096 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:56:37,096 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:56:37,097 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:56:37,097 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:56:37,097 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:56:37,170 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:56:44,972 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:56:44,988 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:56:45,004 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:56:45,004 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:56:45,004 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:56:45,008 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:56:45,010 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:56:45,027 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-04-30 23:56:45,028 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:56:45,047 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-04-30 23:56:45,047 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-04-30 23:56:45,049 - SecureWalletLogger - WARNING - Server response: OK
+VALIDATED
+. Authentication failed.
+2025-04-30 23:56:45,053 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-04-30 23:59:02,895 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-04-30 23:59:02,997 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-04-30 23:59:03,001 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-04-30 23:59:03,024 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-04-30 23:59:03,024 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-04-30 23:59:03,024 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-04-30 23:59:03,024 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-04-30 23:59:03,025 - SecureWalletLogger - DEBUG - Context created
+2025-04-30 23:59:03,025 - SecureWalletLogger - DEBUG - Viewport created
+2025-04-30 23:59:03,025 - SecureWalletLogger - DEBUG - Window created
+2025-04-30 23:59:03,099 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-04-30 23:59:10,594 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-04-30 23:59:10,611 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-04-30 23:59:10,627 - SecureWalletLogger - DEBUG - Context destroyed
+2025-04-30 23:59:10,627 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-04-30 23:59:10,627 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-04-30 23:59:10,631 - SecureWalletLogger - INFO - Authentication successful.
+2025-04-30 23:59:10,632 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-04-30 23:59:10,650 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-04-30 23:59:10,651 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-04-30 23:59:10,670 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-04-30 23:59:10,671 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-04-30 23:59:10,672 - SecureWalletLogger - WARNING - Server response: OK
+. Authentication failed.
+2025-04-30 23:59:10,676 - SecureWalletLogger - INFO - ESP32 device connection closed.
+2025-05-01 00:01:44,887 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:01:44,990 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:01:44,994 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:01:45,020 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:01:45,020 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:01:45,020 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:01:45,020 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:01:45,021 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:01:45,021 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:01:45,021 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:01:45,097 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:01:52,948 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:01:52,964 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:01:52,979 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:01:52,979 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:01:52,980 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:01:52,983 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:01:52,984 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:01:53,002 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:01:53,003 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:01:53,023 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:01:53,024 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:01:53,026 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:01:53,026 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:01:53,046 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:01:53,047 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:01:53,066 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:05:16,432 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:05:19,579 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:05:19,684 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:05:23,695 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:05:23,715 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:05:23,717 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:05:23,717 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:05:23,717 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:05:23,718 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:05:23,718 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:05:23,718 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:05:23,801 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:05:34,919 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:05:34,935 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:05:34,952 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:05:34,952 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:05:34,953 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:05:35,953 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:05:35,954 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:05:35,973 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:05:35,973 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:05:35,992 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:05:35,992 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:05:35,993 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:05:35,994 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:05:36,012 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:05:36,013 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:05:36,035 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:05:37,954 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:05:37,955 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-05-01 00:05:41,955 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:05:41,956 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-05-01 00:05:45,956 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:05:45,957 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-05-01 00:05:47,957 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:05:47,958 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-05-01 00:05:49,958 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:05:49,958 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-05-01 00:05:49,959 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:05:49,959 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-01 00:12:18,087 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:12:18,291 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:12:18,445 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:12:18,453 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:12:18,480 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:12:18,481 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:12:18,481 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:12:18,481 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:12:18,482 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:12:18,487 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:12:18,487 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:12:18,589 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:12:24,347 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:12:24,364 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:12:24,382 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:12:24,382 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:12:24,382 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:12:24,883 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:12:24,883 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:12:24,902 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:12:24,904 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:12:24,922 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:12:24,923 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:12:24,924 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:12:24,924 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:12:24,944 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:12:24,945 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:12:24,964 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:12:26,884 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:12:26,884 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-05-01 00:12:30,885 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:12:30,885 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-05-01 00:12:34,886 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 5] Input/output error
+2025-05-01 00:12:34,887 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-05-01 00:12:36,887 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:12:36,888 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-05-01 00:12:38,888 - SecureWalletLogger - ERROR - Error reading from port /dev/ttyACM0: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-05-01 00:12:38,889 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-05-01 00:12:38,889 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:12:38,889 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-01 00:12:38,889 - SecureWalletLogger - INFO - Socket connection terminated successfully.
+2025-05-01 00:13:08,609 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:13:08,783 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:13:08,902 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:13:12,913 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:13:12,937 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:13:12,938 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:13:12,939 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:13:12,939 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:13:12,940 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:13:12,940 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:13:12,941 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:13:13,029 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:13:19,561 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:13:19,579 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:13:19,594 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:13:19,596 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:13:19,596 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:13:20,097 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:13:20,098 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:13:20,116 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:13:20,117 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:13:20,136 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:13:20,137 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:13:20,139 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:13:20,139 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:13:20,158 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:13:20,159 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:13:20,180 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:13:22,098 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:13:22,099 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-05-01 00:13:26,100 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:13:26,100 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-05-01 00:13:27,471 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:18:04,718 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:18:04,875 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:18:10,893 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:18:10,913 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:18:10,913 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:18:10,914 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:18:10,914 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:18:10,915 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:18:10,915 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:18:10,915 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:18:10,995 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:18:17,321 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:18:17,338 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:18:17,349 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:18:17,350 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:18:17,351 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:18:18,353 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:18:18,354 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:18:18,372 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:18:18,373 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:18:18,393 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:18:18,394 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:18:18,395 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:18:18,395 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:18:18,415 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:18:18,416 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:18:18,436 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:18:20,354 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:18:20,354 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-05-01 00:18:24,355 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:18:24,355 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-05-01 00:18:27,658 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:20:50,158 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:20:50,260 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:20:50,264 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:20:50,283 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:20:50,283 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:20:50,284 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:20:50,284 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:20:50,285 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:20:50,285 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:20:50,285 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:20:50,375 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:20:59,089 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:20:59,105 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:20:59,121 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:20:59,122 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:20:59,122 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:20:59,126 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:20:59,127 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:20:59,146 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:20:59,147 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:20:59,166 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:20:59,167 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:20:59,168 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:20:59,169 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:20:59,191 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:20:59,191 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:20:59,210 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:21:46,026 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-01 00:21:48,101 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-01 00:21:48,204 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-01 00:21:54,219 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-01 00:21:54,244 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-01 00:21:54,244 - SecureWalletLogger - INFO - Connected to socket server at 127.0.0.1:8080
+2025-05-01 00:21:54,244 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-01 00:21:54,244 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-01 00:21:54,245 - SecureWalletLogger - DEBUG - Context created
+2025-05-01 00:21:54,245 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-01 00:21:54,245 - SecureWalletLogger - DEBUG - Window created
+2025-05-01 00:21:54,325 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-01 00:21:59,853 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-01 00:21:59,869 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-01 00:21:59,885 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-01 00:21:59,886 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-01 00:21:59,886 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-01 00:22:00,386 - SecureWalletLogger - INFO - Authentication successful.
+2025-05-01 00:22:00,387 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:22:00,406 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:22:00,407 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:22:00,426 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:22:00,426 - SecureWalletLogger - INFO - Sent to server: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15,3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+
+2025-05-01 00:22:00,427 - SecureWalletLogger - INFO - Addresses validated by server. Starting communication...
+2025-05-01 00:22:00,427 - SecureWalletLogger - INFO - Sent: GET_ADDR_REQ
+2025-05-01 00:22:00,447 - SecureWalletLogger - INFO - Received request address: 3059301306072a8648ce3d020106082a8648ce3d030107034200045a066d50adaafdac6907540fd3bc855a46cd3e9dbc571c24fb1db378b5955f152aed2bb44f576016aaeac593eee4c414c9e98c0c64664821181842abbd56bb15
+2025-05-01 00:22:00,451 - SecureWalletLogger - INFO - Sent: GET_ADDR_AUTH
+2025-05-01 00:22:00,470 - SecureWalletLogger - INFO - Received auth address: 3059301306072a8648ce3d020106082a8648ce3d0301070342000408fca64a1248f76a655ffafd253d13995fdeb1c09e2a7b253621b1f95f4513a5050183c355e67c5637c1e7fca621d1b426186789992d54eca08a4a830524b0e9
+2025-05-01 00:22:02,387 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:22:02,388 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 1/5
+2025-05-01 00:22:06,389 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:22:06,390 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 2/5
+2025-05-01 00:22:10,391 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:22:10,392 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 3/5
+2025-05-01 00:22:14,393 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:22:14,393 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 4/5
+2025-05-01 00:22:18,394 - SecureWalletLogger - WARNING - Device did not send the expected startup message.
+2025-05-01 00:22:18,395 - SecureWalletLogger - WARNING - Failed to connect to SecureWallet. Attempt 5/5
+2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
+2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-01 00:22:18,395 - SecureWalletLogger - INFO - Disconnected from socket server.
+2025-05-01 01:09:32,416 - SecureWalletLogger - INFO - Socket connection closed.

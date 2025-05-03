@@ -107,3 +107,5 @@ def prompt_user_password():
 
     logger.debug(f"Returning password: {result['password']}")
     return result["password"]
+
+
