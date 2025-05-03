@@ -16,7 +16,8 @@ def handle_server_commands(client_socket, esp_device):
         "logout": lambda: logout_device(esp_device),
         "getreqnft": lambda: getreqnft(esp_device),
         "getauthnft": lambda: getauthnft(esp_device),
-        "setauthnft": lambda: setauthnft(esp_device),
+        "setauthnft": lambda data: setauthnft(esp_device, data),
+        "setreqnft": lambda data: setauthnft(esp_device, data), 
         "signauthmsg": lambda: signauthnft(esp_device),
         "signreqmsg": lambda: Signreqnft(esp_device),
         "removereqnft": lambda: RemoveReqNFT(esp_device),
@@ -28,8 +29,13 @@ def handle_server_commands(client_socket, esp_device):
     try:
         while True:
             # Receive command from the socket server
-            command = client_socket.recv(1024).decode('utf-8').strip()  # Adjust buffer size as needed
-            logger.info(f"Received command from server: {command}")
+            message = client_socket.recv(1024).decode('utf-8').strip()  # Adjust buffer size as needed
+            logger.info(f"Received message from server: {message}")
+
+            # Split the message into command and optional data
+            parts = message.split(" ", 1)
+            command = parts[0]
+            data = parts[1] if len(parts) > 1 else None
 
             # Validate the command
             if command not in command_function_map:
@@ -39,7 +45,11 @@ def handle_server_commands(client_socket, esp_device):
 
             try:
                 # Execute the corresponding function and get the result
-                result = command_function_map[command]()
+                if "setauthnft" in command or "setreqnft" in command and data:
+                    result = command_function_map[command](data)
+                else:
+                    result = command_function_map[command]()
+                
                 logger.info(f"Command '{command}' executed. Result: {result}")
 
                 # Send the result back to the socket server
