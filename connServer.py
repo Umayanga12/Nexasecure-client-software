@@ -1,7 +1,7 @@
 import sys
 import os 
 import threading
-from command import ESP32Device, authenticate_device,GetAuthAddr,GetReqAddr
+from command import ESP32Device, RemoveAuthNFT, RemoveReqNFT, Signreqnft, authenticate_device,GetAuthAddr,GetReqAddr, getauthnft, getreqnft, logout_device, setauthnft, signauthnft
 from gui import prompt_user_password
 from logger import setup_logger
 from util import ConnectSocketServer, monitor_wallet_status, wait_for_device
@@ -12,29 +12,42 @@ serial_lock = threading.Lock()
 logger = setup_logger(log_file="logs/connServer.log", log_level="DEBUG")
 
 def handle_server_commands(client_socket, esp_device):
-    request_pub_addr = GetReqAddr(esp_device)
-    auth_pub_addr = GetAuthAddr(esp_device)
+    command_function_map = {
+        "logout": lambda: logout_device(esp_device),
+        "getreqnft": lambda: getreqnft(esp_device),
+        "getauthnft": lambda: getauthnft(esp_device),
+        "setauthnft": lambda: setauthnft(esp_device),
+        "signauthmsg": lambda: signauthnft(esp_device),
+        "signreqmsg": lambda: Signreqnft(esp_device),
+        "removereqnft": lambda: RemoveReqNFT(esp_device),
+        "removeauthnft": lambda: RemoveAuthNFT(esp_device),
+        "getauthaddr": lambda: GetAuthAddr(esp_device),
+        "getreqaddr": lambda: GetReqAddr(esp_device),
+    }
+
     try:
         while True:
             # Receive command from the socket server
-            command = client_socket.recv(1024).decode('utf-8')  # Adjust buffer size as needed
-            # if not command:
-            #     logger.info("Server closed the connection.")
-            #     break
-
+            command = client_socket.recv(1024).decode('utf-8').strip()  # Adjust buffer size as needed
             logger.info(f"Received command from server: {command}")
 
-            # Send the command to the ESP32 device
-            esp_device.send_command(command)
-            logger.info(f"Sent command to ESP32 device: {command}")
+            # Validate the command
+            if command not in command_function_map:
+                logger.warning(f"Invalid command received: {command}")
+                client_socket.sendall(f"ERROR: Invalid command '{command}'".encode('utf-8'))
+                continue
 
-            # Read the response from the ESP32 device
-            response = esp_device.read_line()
-            logger.info(f"Received response from ESP32 device: {response}")
+            try:
+                # Execute the corresponding function and get the result
+                result = command_function_map[command]()
+                logger.info(f"Command '{command}' executed. Result: {result}")
 
-            # Send the response back to the socket server
-            client_socket.sendall(response.encode('utf-8'))
-            logger.info(f"Sent response back to server: {response}")
+                # Send the result back to the socket server
+                client_socket.sendall(result.encode('utf-8') if isinstance(result, str) else str(result).encode('utf-8'))
+                logger.info(f"Sent result back to server: {result}")
+            except Exception as e:
+                logger.error(f"Error executing command '{command}': {e}")
+                client_socket.sendall(f"ERROR: Failed to execute command '{command}'".encode('utf-8'))
 
     except Exception as e:
         logger.error(f"Error while handling server commands: {e}")
