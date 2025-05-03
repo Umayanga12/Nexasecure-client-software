@@ -62,3 +62,4 @@
 2025-05-01 00:12:38,889 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
 2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
 2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
+2025-05-03 15:59:30,056 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused

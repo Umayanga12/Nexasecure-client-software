@@ -1945,3 +1945,21 @@ VALIDATED
 2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
 2025-05-01 00:22:18,395 - SecureWalletLogger - INFO - Disconnected from socket server.
 2025-05-01 01:09:32,416 - SecureWalletLogger - INFO - Socket connection closed.
+2025-05-03 15:59:07,072 - SecureWalletLogger - INFO - Logger initialized successfully.
+2025-05-03 15:59:11,385 - SecureWalletLogger - INFO - Waiting for SecureWallet device to be plugged in...
+2025-05-03 15:59:29,420 - SecureWalletLogger - INFO - Detected device on port: /dev/ttyACM0
+2025-05-03 15:59:30,055 - SecureWalletLogger - INFO - Opened serial connection on /dev/ttyACM0
+2025-05-03 15:59:30,056 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-03 15:59:30,056 - SecureWalletLogger - DEBUG - Starting prompt_user_password
+2025-05-03 15:59:30,056 - SecureWalletLogger - DEBUG - OpenGL is available
+2025-05-03 15:59:30,056 - SecureWalletLogger - DEBUG - Context created
+2025-05-03 15:59:30,056 - SecureWalletLogger - DEBUG - Viewport created
+2025-05-03 15:59:30,057 - SecureWalletLogger - DEBUG - Window created
+2025-05-03 15:59:30,130 - SecureWalletLogger - DEBUG - DearPyGui setup complete
+2025-05-03 15:59:38,991 - SecureWalletLogger - DEBUG - Submit callback: Password = pass123
+2025-05-03 15:59:39,007 - SecureWalletLogger - DEBUG - DearPyGui started
+2025-05-03 15:59:39,023 - SecureWalletLogger - DEBUG - Context destroyed
+2025-05-03 15:59:39,023 - SecureWalletLogger - DEBUG - Returning password: pass123
+2025-05-03 15:59:39,024 - SecureWalletLogger - INFO - Sent: PASS pass123
+2025-05-03 15:59:45,028 - SecureWalletLogger - WARNING - Authentication failed.
+2025-05-03 15:59:45,030 - SecureWalletLogger - INFO - ESP32 device connection closed.
