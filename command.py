@@ -130,6 +130,7 @@ def setauthnft(device,nft):
 
 def signauthnft(device,msg):
     device.send_command(f"SIGN_MSG_AUTH {msg}")
+    print(f"SIGN_MSG_AUTH {msg}")
     start_time = time.time()
     while time.time() - start_time < 5:
         response = device.read_line()

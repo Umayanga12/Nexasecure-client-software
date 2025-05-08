@@ -1,7 +1,7 @@
 import sys
 import os 
 import threading
-from command import ESP32Device, RemoveAuthNFT, RemoveReqNFT, Signreqnft, authenticate_device,GetAuthAddr,GetReqAddr, getauthnft, getreqnft, logout_device, setauthnft, signauthnft
+from command import ESP32Device, RemoveAuthNFT, RemoveReqNFT, Signreqnft, authenticate_device,GetAuthAddr,GetReqAddr, getauthnft, getreqnft, logout_device, setauthnft, setreqnft, signauthnft
 from gui import prompt_user_password
 from logger import setup_logger
 from util import ConnectSocketServer, monitor_wallet_status, wait_for_device
@@ -17,9 +17,9 @@ def handle_server_commands(client_socket, esp_device):
         "getreqnft": lambda: getreqnft(esp_device),
         "getauthnft": lambda: getauthnft(esp_device),
         "setauthnft": lambda data: setauthnft(esp_device, data),
-        "setreqnft": lambda data: setauthnft(esp_device, data), 
-        "signauthmsg": lambda: signauthnft(esp_device),
-        "signreqmsg": lambda: Signreqnft(esp_device),
+        "setreqnft": lambda data: setreqnft(esp_device, data), 
+        "signauthmsg": lambda data: signauthnft(esp_device, data),
+        "signreqmsg": lambda data: Signreqnft(esp_device, data),
         "removereqnft": lambda: RemoveReqNFT(esp_device),
         "removeauthnft": lambda: RemoveAuthNFT(esp_device),
         "getauthaddr": lambda: GetAuthAddr(esp_device),
@@ -40,24 +40,24 @@ def handle_server_commands(client_socket, esp_device):
             # Validate the command
             if command not in command_function_map:
                 logger.warning(f"Invalid command received: {command}")
-                client_socket.sendall(f"ERROR: Invalid command '{command}'".encode('utf-8'))
+                client_socket.sendall(f"ERROR: Invalid command '{command}'\n".encode('utf-8'))
                 continue
 
             try:
                 # Execute the corresponding function and get the result
-                if "setauthnft" in command or "setreqnft" in command and data:
+                if ("setauthnft" in command or "setreqnft" in command or "signauthmsg" in command or "signreqmsg" in command) and data:
                     result = command_function_map[command](data)
                 else:
                     result = command_function_map[command]()
                 
                 logger.info(f"Command '{command}' executed. Result: {result}")
 
-                # Send the result back to the socket server
-                client_socket.sendall(result.encode('utf-8') if isinstance(result, str) else str(result).encode('utf-8'))
+                # Send the result back to the socket server with a newline character
+                client_socket.sendall((result + "\n").encode('utf-8') if isinstance(result, str) else (str(result) + "\n").encode('utf-8'))
                 logger.info(f"Sent result back to server: {result}")
             except Exception as e:
                 logger.error(f"Error executing command '{command}': {e}")
-                client_socket.sendall(f"ERROR: Failed to execute command '{command}'".encode('utf-8'))
+                client_socket.sendall(f"ERROR: Failed to execute command '{command}'\n".encode('utf-8'))
 
     except Exception as e:
         logger.error(f"Error while handling server commands: {e}")
@@ -75,7 +75,7 @@ def main():
         return
 
     esp_device = ESP32Device(port)
-    remote_server = "127.0.0.1:8080" 
+    remote_server = "127.0.0.1:10080" 
     client_socket = ConnectSocketServer(remote_server=remote_server)
     #print(client_socket)
     # Prompt user for the password using a GUI

@@ -63,3 +63,60 @@
 2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Max failures reached. Exiting...
 2025-05-01 00:22:18,395 - SecureWalletLogger - ERROR - Wallet offline for too long. Disconnecting user from the server.
 2025-05-03 15:59:30,056 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-03 20:37:52,689 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-05-03 20:38:07,375 - SecureWalletLogger - ERROR - Failed to open serial port /dev/ttyACM0: [Errno 16] could not open port /dev/ttyACM0: [Errno 16] Device or resource busy: '/dev/ttyACM0'
+2025-05-04 21:31:50,442 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:41:24,196 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:46:07,200 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 21:50:54,014 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:00:36,261 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:06:15,901 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-04 22:38:31,439 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 12:19:45,326 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 14:28:51,699 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 14:50:27,867 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 15:02:01,009 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 15:27:49,598 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:21:36,723 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:36:10,942 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-05 16:46:34,719 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 00:50:36,635 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 11:58:39,274 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:48:27,810 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:11,507 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:54,616 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 12:49:59,390 - SecureWalletLogger - ERROR - Could not connect to the socket server: [Errno 111] Connection refused
+2025-05-06 12:50:05,328 - SecureWalletLogger - ERROR - Could not connect to the socket server.
+2025-05-06 13:12:29,215 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:19:26,499 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:21:16,883 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:43:38,574 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:44:53,341 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 13:47:16,465 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 16:36:10,808 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 16:39:33,830 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:08:05,724 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:10:37,951 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:11:35,345 - SecureWalletLogger - ERROR - Error executing command 'signauthmsg': handle_server_commands.<locals>.<lambda>() missing 1 required positional argument: 'data'
+2025-05-06 23:20:29,214 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:23:42,129 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-06 23:57:02,268 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 11:31:45,633 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:13:23,151 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:18:45,783 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:23:41,818 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:27:54,966 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-07 12:30:29,991 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:43:52,529 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:49:15,427 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 11:50:12,443 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:04:30,999 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:05:48,400 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:06:57,498 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 12:27:45,284 - SecureWalletLogger - ERROR - Error while handling server commands: [Errno 32] Broken pipe
+2025-05-08 14:17:33,059 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:17:34,620 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:17:35,773 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:18:06,518 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 14:18:51,991 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
+2025-05-08 17:10:16,491 - SecureWalletLogger - ERROR - Error executing command 'getreqnft': write failed: [Errno 5] Input/output error
